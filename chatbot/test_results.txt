@@ -1,0 +1,47 @@
+Q: 'What is the total revenue?'
+A: Apple, FY2025 (Sep 27, 2025): total revenue was $416.2B.
+Microsoft, FY2025 (Jun 30, 2025): total revenue was $281.7B.
+Tesla, FY2025 (Dec 31, 2025): total revenue was $94.8B.
+------------------------------------------------------------
+Q: "What is Apple's total revenue in 2024?"
+A: Apple, FY2024 (Sep 28, 2024): total revenue was $391.0B.
+------------------------------------------------------------
+Q: 'How has net income changed over the last year?'
+A: Apple: net income increased by $18.3B (19.5%) from $93.7B in FY2024 to $112.0B in FY2025.
+Microsoft: net income increased by $13.7B (15.5%) from $88.1B in FY2024 to $101.8B in FY2025.
+Tesla: net income decreased by $3.3B (46.5%) from $7.1B in FY2024 to $3.8B in FY2025.
+------------------------------------------------------------
+Q: "How has Tesla's net income changed over the last year?"
+A: Tesla: net income decreased by $3.3B (46.5%) from $7.1B in FY2024 to $3.8B in FY2025.
+------------------------------------------------------------
+Q: 'What are the total assets and liabilities?'
+A: Apple (FY2025): total assets $359.2B, total liabilities $285.5B.
+Microsoft (FY2025): total assets $619.0B, total liabilities $275.5B.
+Tesla (FY2024): total assets $122.1B, total liabilities $48.4B.
+------------------------------------------------------------
+Q: "What are Microsoft's total assets and liabilities in 2023?"
+A: Microsoft (FY2023): total assets $412.0B, total liabilities $205.8B.
+------------------------------------------------------------
+Q: 'What is the operating cash flow?'
+A: Apple, FY2025 (Sep 27, 2025): operating cash flow was $111.5B.
+Microsoft, FY2025 (Jun 30, 2025): operating cash flow was $136.2B.
+Tesla, FY2024 (Dec 31, 2024): operating cash flow was $14.9B.
+------------------------------------------------------------
+Q: 'Which company has the highest net margin?'
+A: In FY2024, Microsoft had the highest net margin (36.0%). Ranking: Microsoft 36.0%, Apple 24.0%, Tesla 7.3%.
+------------------------------------------------------------
+Q: 'help'
+A: I can answer these questions (add a company and/or year if you like):
+  1. What is the total revenue?
+  2. How has net income changed over the last year?
+  3. What are the total assets and liabilities?
+  4. What is the operating cash flow?
+  5. Which company has the highest net margin?
+Example: 'What is Apple's total revenue in 2024?'
+------------------------------------------------------------
+Q: 'Who will win the World Cup?'
+A: Sorry, I can only provide information on predefined queries. Type 'help' to see them.
+------------------------------------------------------------
+Q: ''
+A: Please type a question. Type 'help' to see what I can answer.
+------------------------------------------------------------
